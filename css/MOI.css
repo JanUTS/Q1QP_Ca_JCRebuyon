@@ -1,6 +1,6 @@
 body
 {
-    background-image: url(./image/BGgeneral.png);
+    background-image: url(../image/BGgeneral.png);
     margin: 0;
     overflow-x: hidden;
     overflow-y: scroll;
@@ -182,11 +182,11 @@ body
 }
 
 .income-table th {
-   background-image: url(./image/BgIndex.png);
+   background-image: url(../image/BgIndex.png);
    background-size: 100%;
 }
 .income-table td
 {
-   background-image: url(./image/tablebg.png);
+   background-image: url(../image/tablebg.png);
    background-size: 100%;
 }
