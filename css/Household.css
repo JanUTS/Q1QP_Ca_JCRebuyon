@@ -1,6 +1,6 @@
 body
 {
-   background-image: url(../image/Aboutmebg.png);
+   background-image: url(../image/tbp.png);
     margin: 0;
    
     overflow-x: hidden;
@@ -214,12 +214,12 @@ body
  }
  
  .stat th {
-    background-image: url(../image/tbp.png);
+    background-image: url(../image/RegionBg.png);
     background-size: 100%;
  }
  .stat td
  {
-    background-image: url(../image/tbp.png);
+    background-image: url(../image/RegionBg.png);
     background-size: 100%;
  }
  
